@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/MageBR_BoletoBancario",
+    "name": "OpenMageModuleFostering\/MageBR_BoletoBancario",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
-    "description": "Boleto Bancário brasileiro com segunda via e envio pelo email.",
+    "description": "Boleto Banc\u00e1rio brasileiro com segunda via e envio pelo email.",
     "authors": [
-    {
-        "name": "Eric Cavalcanti",
-        "email": "cajuclc@gmail.com"
-    }
-],
+        {
+            "name": "Eric Cavalcanti",
+            "email": "cajuclc@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
